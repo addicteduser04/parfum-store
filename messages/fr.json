@@ -1,0 +1,116 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "catalog": "Catalogue",
+    "collections": "Collections",
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "L'Art du Parfum",
+      "subtitle": "Découvrez notre collection exclusive de parfums d'exception",
+      "cta": "Découvrir la collection"
+    },
+    "featured": {
+      "title": "Produits Vedettes",
+      "viewAll": "Voir tout"
+    },
+    "bestSellers": {
+      "title": "Meilleures Ventes",
+      "viewAll": "Voir tout"
+    },
+    "story": {
+      "title": "Notre Histoire",
+      "subtitle": "Une passion pour l'excellence",
+      "description": "Depuis plus de deux décennies, nous sélectionnons les parfums les plus raffinés pour sublimer votre élégance.",
+      "readMore": "Lire la suite"
+    },
+    "store": {
+      "title": "Visitez Notre Boutique",
+      "address": "123 Avenue Mohammed V, Casablanca",
+      "hours": "Lun-Sam: 9h-20h, Dim: 10h-18h"
+    }
+  },
+  "catalog": {
+    "title": "Catalogue",
+    "filters": {
+      "all": "Tous",
+      "men": "Homme",
+      "women": "Femme",
+      "unisex": "Unisex",
+      "brand": "Marque",
+      "concentration": "Concentration",
+      "price": "Prix",
+      "search": "Rechercher..."
+    },
+    "sorting": {
+      "label": "Trier par:",
+      "newest": "Nouveautés",
+      "priceAsc": "Prix croissant",
+      "priceDesc": "Prix décroissant",
+      "popular": "Populaire"
+    },
+    "noResults": "Aucun produit trouvé",
+    "addToWhatsApp": "Ajouter au WhatsApp"
+  },
+  "product": {
+    "details": "Détails",
+    "notes": "Notes",
+    "topNotes": "Notes de tête",
+    "heartNotes": "Notes de cœur",
+    "baseNotes": "Notes de fond",
+    "volume": "Volume",
+    "price": "Prix",
+    "inStock": "En stock",
+    "outOfStock": "Rupture de stock",
+    "addToWhatsApp": "Commander via WhatsApp",
+    "related": "Produits similaires",
+    "description": "Description",
+    "brand": "Marque",
+    "concentration": "Concentration"
+  },
+  "collection": {
+    "title": "Collection"
+  },
+  "about": {
+    "title": "À Propos",
+    "subtitle": "Notre Passion pour le Parfum",
+    "description": "Fondée en 2000, notre maison de parfum est devenue une référence dans l'univers de la parfumerie de luxe au Maroc."
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Nous sommes là pour vous",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "subject": "Sujet",
+      "message": "Message",
+      "send": "Envoyer"
+    },
+    "info": {
+      "address": "Adresse",
+      "phone": "Téléphone",
+      "email": "Email",
+      "hours": "Heures d'ouverture"
+    }
+  },
+  "footer": {
+    "about": "À propos",
+    "contact": "Contact",
+    "catalog": "Catalogue",
+    "collections": "Collections",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "social": "Suivez-nous",
+    "copyright": "© 2024 Parfum House. Tous droits réservés."
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur est survenue",
+    "close": "Fermer",
+    "menu": "Menu",
+    "search": "Rechercher",
+    "language": "Langue"
+  }
+}
