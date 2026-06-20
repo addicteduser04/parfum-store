@@ -63,7 +63,7 @@ src/
 
 1. Cloner le repository:
 ```bash
-git clone <repository-url>
+git clone "https://github.com/addicteduser04/parfum-store"
 cd parfum-store
 ```
 
